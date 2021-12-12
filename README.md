@@ -1,1 +1,1 @@
-# GoSurf - a landpage
+# GoSurf - a landing page
